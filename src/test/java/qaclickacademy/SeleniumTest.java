@@ -17,6 +17,12 @@ public class SeleniumTest
 		System.out.println("selenium test2");
 
 	}
+	@Test
+	public void selenuimTest31()
+	{
+		System.out.println("selenium test31");
+
+	}
 	@BeforeTest
 	public void selenuimTest3()
 	{
